@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-0326ecdd1b6e87e785d9b71ec69f008d1c636849.jar"
+        jar="F:\Nitesh\Android Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\pre-dexed\debug\classes-83140cbda9aeab36acd708e952777f4b7a33c7f3.jar"
+        jar="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\pre-dexed\debug\classes-d8511def53ff78dd2e2924bdd3cd5259213d239d.jar"
+        jar="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-ad0ec2e78eb18bf031113b6bb010d7eda6d54e7a.jar"
+        jar="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\pre-dexed\debug\volley-a370ba7b1f42ded4d5301f9d7b69c6d1cda22ff0.jar"
+        jar="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\libs\volley.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c"/>
+    <item
+        dex="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\pre-dexed\debug\classes-ca9d8263620bf068e41e90166d99723728117261.jar"
+        jar="F:\Nitesh\Android\Libraries and Views\Gradle\PhotosSearch\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e5531cb41e35c81a051a274945542f6b31e4c97e"/>
+
+</pre-dex-items>

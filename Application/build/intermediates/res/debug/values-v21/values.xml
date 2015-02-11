@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/F:/Nitesh/Android/Libraries%20and%20Views/Gradle/PhotosSearch/Application/src/main/res/values-v21/base-template-styles.xml -->
+    <eat-comment />
+
+    <style name="Theme.Base" parent="Theme.AppCompat.Light"></style>
+
+</resources>
